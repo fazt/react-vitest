@@ -1,0 +1,14 @@
+.accordion {
+    width: 80vw;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.accordion-title {
+    padding: 0px 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+}
